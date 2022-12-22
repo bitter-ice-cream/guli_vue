@@ -1,6 +1,6 @@
 <template>
   <div>
-
+  讲师列表
     <!--多条件查询表单-->
     <el-form :inline="true" class="demo-form-inline" style="margin-left: 20px; margin-top: 12px;">
       <el-form-item label="名称">
@@ -9,12 +9,14 @@
           placeholder="请输入名称"
         ></el-input>
       </el-form-item>
+
       <el-form-item label="级别">
         <el-select v-model="teacherQuery.level" placeholder="讲师头衔">
           <el-option label="高级讲师" :value="1"></el-option>
           <el-option label="首席讲师" :value="2"></el-option>
         </el-select>
       </el-form-item>
+
       <el-form-item label="添加时间">
         <el-time-picker
           placeholder="选择开始时间"
@@ -143,8 +145,7 @@
                 });
                 //刷新列表页面
                 this.getList()
-              }
-            )
+              })
         });
       }
 

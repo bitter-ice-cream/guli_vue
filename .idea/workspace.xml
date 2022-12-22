@@ -1,7 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2d415b2-d08d-42dc-a1f2-2c4a0700a853" name="Changes" comment="" />
+    <list default="true" id="e2d415b2-d08d-42dc-a1f2-2c4a0700a853" name="Changes" comment="修改谷粒学苑">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/src/api/edu/chapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/src/api/edu/course.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/src/api/edu/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/src/components/Tinymce/components/editorImage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/src/components/Tinymce/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/src/components/Tinymce/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/src/components/Tinymce/toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/src/views/edu/course/chapter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/src/views/edu/course/info.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/src/views/edu/course/list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/src/views/edu/course/publish.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/langs/zh_CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/codesample/css/prism.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-cool.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-cry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-embarassed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-foot-in-mouth.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-frown.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-innocent.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-kiss.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-laughing.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-money-mouth.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-sealed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-surprised.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-tongue-out.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-undecided.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-wink.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/emoticons/img/smiley-yell.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/plugins/visualblocks/css/visualblocks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/content.inline.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/fonts/tinymce-mobile.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/fonts/tinymce.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/fonts/tinymce.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/fonts/tinymce.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/fonts/tinymce.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/img/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/img/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/img/object.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/img/trans.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/skin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/skins/lightgray/skin.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template-master/static/tinymce4.7.5/tinymce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/api/banner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/css/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/css/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/css/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/css/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/css/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/css/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/css/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/css/sign.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/css/web.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/HF-BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/avatar-boy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/black-bg-hf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/black-mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/black-name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/c-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/d-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/default-img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/default-img_old.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/default-tea-img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/kyb-tip-all-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/kyb-tip-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/kyb-tip-close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/loding.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/pic/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/pic/banner-1-blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/pic/banner-1-green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/pic/banner-2-blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/pic/banner-2-green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/pic/c-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/pic/one-master.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/pic/t-p-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/pic/three-blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/pic/two-green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/qq-icon-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/qq-icon-hover-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/qq-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/s-next-btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/s-prev-btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/tipQe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/up-hf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/v-loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/v-play-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/wb-icon-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/wb-icon-hover-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/wb-icon-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/wb-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/wb2-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/wx-icon-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/wx-icon-hover-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/wx-icon-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/wx-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/wx2-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/img/zan-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/js/aliplayer-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/js/html5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/js/jquery-1.7.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/js/placeholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/js/swiper-2.1.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/banner/1525939573202.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/banner/153525d0ef15459596.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/course/1442295379715.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/course/1442295455437.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/course/1442295472860.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/course/1442295506745.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/course/1442295527931.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/course/1442295556203.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/course/1442295570359.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/course/1442295581911.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/course/1442295592705.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/course/1442295604295.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/course/1442302831779.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/course/1442302852837.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/teacher/1442297885942.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/teacher/1442297919077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/teacher/1442297927029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/teacher/1442297935589.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/teacher/1442297957332.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/teacher/1442297969808.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/teacher/1442297977255.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/teacher/1442297987091.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/teacher/1442297999141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/assets/photo/teacher/1442298121626.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/components/AppLogo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/components/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/layouts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/layouts/default.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/middleware/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/nuxt.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/pages/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/pages/course/_id.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/pages/course/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/pages/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/pages/teacher/_id.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/pages/teacher/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/plugins/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/plugins/nuxt-swiper-plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/static/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/store/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-front-1010/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template-master/build/webpack.dev.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template-master/build/webpack.dev.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template-master/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template-master/src/api/edu/subject.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template-master/src/api/edu/subject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template-master/src/api/edu/teacher.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template-master/src/api/edu/teacher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template-master/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template-master/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template-master/src/views/edu/subject/save.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template-master/src/views/edu/subject/save.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template-master/src/views/edu/teacher/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template-master/src/views/edu/teacher/list.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,22 +189,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2D71KivtPA2k49SeKvArCBiQ5CM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Programming/WebstormProjects/guli",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Programming/projects/guliXY/guli&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;vuejs.nuxt.types-notification-shown&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programming\WebstormProjects\guli\vue-front-1010\api" />
+      <recent name="C:\Programming\WebstormProjects\guli\vue-front-1010\pages" />
+      <recent name="C:\Programming\WebstormProjects\guli\vue-front-1010\pages\course" />
+      <recent name="C:\Programming\WebstormProjects\guli\vue-front-1010\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,8 +238,57 @@
       <option name="presentableId" value="Default" />
       <updated>1660035249441</updated>
       <workItem from="1660035250725" duration="27000" />
-      <workItem from="1665107566115" duration="59000" />
+      <workItem from="1665107566115" duration="1163000" />
+      <workItem from="1665109761638" duration="117000" />
+      <workItem from="1666487518949" duration="3883000" />
+      <workItem from="1666493169878" duration="6024000" />
+      <workItem from="1666521593151" duration="396000" />
+      <workItem from="1666574523843" duration="6909000" />
+      <workItem from="1666677572787" duration="1877000" />
+      <workItem from="1666680778190" duration="4110000" />
+      <workItem from="1666781476605" duration="652000" />
+      <workItem from="1667103056597" duration="64000" />
+      <workItem from="1667204611488" duration="325000" />
+      <workItem from="1667373593583" duration="71000" />
+      <workItem from="1667373758809" duration="54000" />
+      <workItem from="1667373863900" duration="742000" />
+      <workItem from="1667609548126" duration="10154000" />
+      <workItem from="1667781602216" duration="4446000" />
+      <workItem from="1667889778206" duration="9782000" />
+      <workItem from="1668078399055" duration="1590000" />
+      <workItem from="1668127481723" duration="3086000" />
+      <workItem from="1668233276587" duration="229000" />
+      <workItem from="1668385133091" duration="10502000" />
+      <workItem from="1668471339941" duration="6616000" />
+      <workItem from="1668581310424" duration="13000" />
+      <workItem from="1668581924195" duration="710000" />
+      <workItem from="1669364645355" duration="675000" />
+      <workItem from="1669369643646" duration="14000" />
+      <workItem from="1669597468683" duration="25000" />
+      <workItem from="1669682574700" duration="11105000" />
+      <workItem from="1669856524215" duration="10475000" />
+      <workItem from="1670032135779" duration="790000" />
+      <workItem from="1670033999109" duration="647000" />
+      <workItem from="1670066834656" duration="29000" />
+      <workItem from="1670122150033" duration="741000" />
+      <workItem from="1670202130948" duration="225000" />
+      <workItem from="1670205589102" duration="5764000" />
+      <workItem from="1670308428902" duration="1351000" />
+      <workItem from="1670374461723" duration="2102000" />
+      <workItem from="1670414616697" duration="209000" />
+      <workItem from="1671436496430" duration="2485000" />
+      <workItem from="1671627789413" duration="2628000" />
+      <workItem from="1671630603214" duration="900000" />
+      <workItem from="1671673709289" duration="1725000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1665107811507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665107811507</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -47,10 +299,28 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <MESSAGE value="修改谷粒学苑后台 添加前台NUXT" />
+    <MESSAGE value="修改谷粒学苑" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改谷粒学苑" />
   </component>
 </project>

@@ -16,7 +16,7 @@
           :on-error="fileUploadError"
           :disabled="importBtnDisabled"
           :limit="1"
-          :action="BASE_API+'/eduservice/subject/addSubject'"
+          :action="BASE_API+'/eduService/subject/addSubject'"
           name="file"
           accept="application/vnd.ms-excel">
           <el-button slot="trigger" size="small" type="primary">选取文件</el-button>
@@ -51,7 +51,6 @@ export default {
       this.importBtnDisabled = true;
       this.loading = true;
       this.$refs.upload.submit();
-
     },
     //上传成功
     fileUploadSuccess(response) {
